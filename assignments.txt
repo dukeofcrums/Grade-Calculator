@@ -1,0 +1,21 @@
+7
+4
+1
+1
+1
+mathquiz y 0.7 1
+4
+64
+4
+exam1 y 24.2 54
+exam2 y 28 50
+exam3 y 23.5 50
+final y 28 50
+1
+17
+1
+workshop y 15.13 17
+1
+18
+1
+homework y 11.12 18
